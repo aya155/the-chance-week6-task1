@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="videoTitlePadding">16dp</dimen>
+    <dimen name="videoImageHeightBefore">225dp</dimen>
+    <dimen name="videoImageWidthBefore">0dp</dimen>
+    <dimen name="videoImageWidthAfter">65dp</dimen>
+    <dimen name="videoImageHeightAfter">53dp</dimen>
+    <dimen name="playIconMarginEndBefore">0dp</dimen>
+    <dimen name="playIconMarginEndAfter">32dp</dimen>
+    <dimen name="playIconWidthAfter">24dp</dimen>
+    <dimen name="playIconHeightAfter">24dp</dimen>
+</resources>
